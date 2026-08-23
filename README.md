@@ -1,4 +1,4 @@
-# VPd06 — AI API (OpenAI / Claude через ProxyAPI)
+# AI API (OpenAI / Claude через ProxyAPI)
 
 Консольный текстовый помощник на Python с подключением к [ProxyAPI](https://proxyapi.ru/).
 
